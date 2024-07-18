@@ -189,11 +189,11 @@ device_options:
 Restart container and open http://<container_ip>:8080 to check the dashboard.
 As permit join is enabled try to pair new Zigbee device to the network, everything shall work correct.
 
-![Zigbee Home](assets/lib/posts/2024-07-18/zigbee_home.png)
+![Zigbee Home](assets/img/posts/2024-07-18/zigbee_home.png)
 
 From Dashboard interface we have now access to sensors data and control over devices.
 
-![Zigbee Dashboard](assets/lib/posts/2024-07-18/zigbee_dashboard.png)
+![Zigbee Dashboard](assets/img/posts/2024-07-18/zigbee_dashboard.png)
 
 ## Debrief
 
